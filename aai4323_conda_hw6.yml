@@ -22,6 +22,11 @@ dependencies:
 
   # Visualization
   - matplotlib
+  - seaborn
+
+  # ML and Statistics
+  - scikit-learn
+  - statsmodels
 
   # Utilities
   - tqdm
